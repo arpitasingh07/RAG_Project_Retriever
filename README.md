@@ -2,6 +2,9 @@
 
 A comprehensive Hybrid Retrieval-Augmented Generation (RAG) system built for conversational AI with advanced evaluation capabilities.
 
+<img width="2844" height="1512" alt="image" src="https://github.com/user-attachments/assets/d0327794-c6f1-4ab1-a924-9e22b242d7a9" />
+
+
 ## Overview
 
 This system implements a state-of-the-art RAG pipeline that combines BM25 sparse retrieval with dense semantic retrieval, enhanced by Reciprocal Rank Fusion (RRF) and cross-encoder reranking. The system is designed for strict extractive question answering with robust hallucination resistance.
