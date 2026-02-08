@@ -4,6 +4,8 @@ A comprehensive Hybrid Retrieval-Augmented Generation (RAG) system built for con
 
 Below is the UI of Gradio, where the user can input the query and the retriever will gives us the answers with retrieved chunks
 
+The URL can be accessed by opening this link on browser- http://127.0.0.1:7861/
+
 <img width="2844" height="1512" alt="image" src="https://github.com/user-attachments/assets/d0327794-c6f1-4ab1-a924-9e22b242d7a9" />
 
 <img width="2626" height="1518" alt="image" src="https://github.com/user-attachments/assets/117dc9e4-a5f5-4746-931e-2398f014fd96" />
