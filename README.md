@@ -4,7 +4,13 @@ A comprehensive Hybrid Retrieval-Augmented Generation (RAG) system built for con
 
 Below is the UI of Gradio, where the user can input the query and the retriever will gives us the answers with retrieved chunks
 
-The URL can be accessed by opening this link on browser- http://127.0.0.1:7861/
+If you want to directly access our website link- https://esspi-group61-hybrid-rag-retriever-project.hf.space/?logs=container&__theme=system&deep_link=i4mtz5pxz4k
+
+<img width="2838" height="1546" alt="image" src="https://github.com/user-attachments/assets/f865731b-7fd1-4fb7-bcba-4d36c100fab5" />
+
+
+
+The URL can also be accessed by opening this link on browser if you run the jupyter notebook- http://127.0.0.1:7861/
 
 <img width="2844" height="1512" alt="image" src="https://github.com/user-attachments/assets/d0327794-c6f1-4ab1-a924-9e22b242d7a9" />
 
