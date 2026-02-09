@@ -1,0 +1,8 @@
+gradio
+sentence-transformers
+transformers
+rank-bm25
+faiss-cpu
+nltk
+numpy
+torch

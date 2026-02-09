@@ -1,802 +1,802 @@
 [
   {
-    "question": "What is stated about Neoclassical architecture?",
-    "answer": "It became one of the most prominent architectural styles in the Western world.",
+    "question": "What is stated about Mount Everest?",
+    "answer": "It is Earth 's highest mountain above sea level.",
     "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Neoclassical_architecture",
-    "chunk_id": "chunk_5452",
-    "source_title": "Neoclassical architecture"
-  },
-  {
-    "question": "What is stated about Culture of Australia?",
-    "answer": "The answer is not available in the provided context.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Culture_of_Australia",
-    "chunk_id": "chunk_2931",
-    "source_title": "Culture of Australia"
-  },
-  {
-    "question": "What is stated about Cradle of civilization?",
-    "answer": "A location and a culture where civilization was developed independently of other civilizations in other locations.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Cradle_of_civilization",
-    "chunk_id": "chunk_739",
-    "source_title": "Cradle of civilization"
-  },
-  {
-    "question": "Why is Indian Army significant according to the passage?",
-    "answer": "It is the largest standing army in the world.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Indian_Army",
-    "chunk_id": "chunk_1039",
-    "source_title": "Indian Army"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Civilization?",
-    "answer": "The answer is not available in the given context.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Civilization",
-    "chunk_id": "chunk_695",
-    "source_title": "Civilization"
-  },
-  {
-    "question": "Why is Netherlands significant according to the passage?",
-    "answer": "The Netherlands is the largest of the four constituent countries of the Kingdom of the Netherlands .",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Netherlands",
-    "chunk_id": "chunk_4663",
-    "source_title": "Netherlands"
-  },
-  {
-    "question": "What is stated about Clovis culture?",
-    "answer": "The Clovis culture is suggested to have heavily utilized hides, wood, and natural fibres.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Clovis_culture",
-    "chunk_id": "chunk_5212",
-    "source_title": "Clovis culture"
-  },
-  {
-    "question": "What is stated about Andy Warhol?",
-    "answer": "I went into business art . I wanted to be an art business man or a business artist. Being good in business is the most fascinating kind of art.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Andy_Warhol",
-    "chunk_id": "chunk_3227",
-    "source_title": "Andy Warhol"
-  },
-  {
-    "question": "What is stated about Pop art?",
-    "answer": "The movement presented a challenge to traditions of fine art by including imagery from popular and mass culture.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Pop_art",
-    "chunk_id": "chunk_4032",
-    "source_title": "Pop art"
-  },
-  {
-    "question": "Why is Nude (art) significant according to the passage?",
-    "answer": "It was a preoccupation of Ancient Greek art.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Nude_(art)",
-    "chunk_id": "chunk_5327",
-    "source_title": "Nude (art)"
-  },
-  {
-    "question": "What are the key differences mentioned about Origamic architecture?",
-    "answer": "The three-dimensional reproduction of architecture and monuments are comparable to intricate 'pop-ups ' , indeed , some works are deliberately engineered to possess 'pop-up'-like properties.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Origamic_architecture",
-    "chunk_id": "chunk_4236",
-    "source_title": "Origamic architecture"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Selena Gomez?",
-    "answer": "The answer is not available in the given context.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Selena_Gomez",
-    "chunk_id": "chunk_2019",
-    "source_title": "Selena Gomez"
-  },
-  {
-    "question": "What is stated about Aesthetics?",
-    "answer": "The answer is not available in the provided context.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Aesthetics",
-    "chunk_id": "chunk_991",
-    "source_title": "Aesthetics"
-  },
-  {
-    "question": "What are the key differences mentioned about Mount Everest?",
-    "answer": "The mountain has the most deaths.",
-    "type": "comparative",
     "ground_truth_url": "https://en.wikipedia.org/wiki/Mount_Everest",
-    "chunk_id": "chunk_524",
+    "chunk_id": "chunk_2277",
     "source_title": "Mount Everest"
   },
   {
-    "question": "Why is Graham Hancock significant according to the passage?",
-    "answer": "He is a British author known for promoting pseudoscientific explanations of ancient civilizations and hypothetical lost lands.",
+    "question": "What are the key differences mentioned about Pop music?",
+    "answer": "The term popular music and pop music are often used interchangeably.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Pop_music",
+    "chunk_id": "chunk_1402",
+    "source_title": "Pop music"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Dinosaur?",
+    "answer": "The first potential evidence for herding or flocking as a widespread behavior common to many dinosaur groups in addition to birds was the 1878 discovery of 31 Iguanodon , ornithischians that were then thought to have perished together in Bernissart , Belgium , after they fell into a deep , flooded sinkhole and drowned . Other mass-death sites have been discovered subsequently . Those , along with multiple trackways , suggest that gre An embryo of the basal sauropodomorph Massospondylus was found without teeth , indicating that some parental care was required to feed the young dinosaurs . Trackways have also confirmed parental behavior among ornithopods from the Isle of Skye in northwestern Scotland . However , there is ample evidence of precociality or superprecociality among many dinosaur",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Dinosaur",
+    "chunk_id": "chunk_18",
+    "source_title": "Dinosaur"
+  },
+  {
+    "question": "What are the key differences mentioned about Mount Everest?",
+    "answer": "The summit of Everest is the point at which Earth 's surface reaches the greatest distance above sea level. Several other mountains are sometimes claimed to be the  tallest mountains on Earth '' . Mauna Kea in Hawaii is tallest when measured from its base ; it rises over 10,200 m ( 33,464.6 ft ) from its base on the mid-ocean floor , but only attains 4,205 m ( 13,796 ft ) above sea level . By the same measure of base to summit , Denali ( also called Mount McKinley ) in Alaska is taller than Everest as well .",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Mount_Everest",
+    "chunk_id": "chunk_2276",
+    "source_title": "Mount Everest"
+  },
+  {
+    "question": "What are the key differences mentioned about Soviet Union in World War II?",
+    "answer": "The Soviet Union came out of World War II militarily victorious but economically and structurally devastated.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Soviet_Union_in_World_War_II",
+    "chunk_id": "chunk_4161",
+    "source_title": "Soviet Union in World War II"
+  },
+  {
+    "question": "What is stated about War crimes in World War II?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/War_crimes_in_World_War_II",
+    "chunk_id": "chunk_4215",
+    "source_title": "War crimes in World War II"
+  },
+  {
+    "question": "What is stated about American entry into World War I?",
+    "answer": "The United States entered into World War I on 6 April 1917.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/American_entry_into_World_War_I",
+    "chunk_id": "chunk_5616",
+    "source_title": "American entry into World War I"
+  },
+  {
+    "question": "What are the key differences mentioned about Searchlight Books?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Searchlight_Books",
+    "chunk_id": "chunk_5248",
+    "source_title": "Searchlight Books"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Use of social network websites in investigations?",
+    "answer": "Information posted on sites such as Twitter , Instagram , and Facebook has been used by police and university officials to prosecute users of said sites.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Use_of_social_network_websites_in_investigations",
+    "chunk_id": "chunk_2101",
+    "source_title": "Use of social network websites in investigations"
+  },
+  {
+    "question": "What are the key differences mentioned about History Channel?",
+    "answer": "The answer is not available in the given context.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_Channel",
+    "chunk_id": "chunk_6650",
+    "source_title": "History Channel"
+  },
+  {
+    "question": "What is stated about Prisoner of war?",
+    "answer": "The earliest recorded usage of the phrase  prisoner of war '' dates back to 1610.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Prisoner_of_war",
+    "chunk_id": "chunk_5979",
+    "source_title": "Prisoner of war"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Cinema of the United States?",
+    "answer": "The answer is not available in the given context.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cinema_of_the_United_States",
+    "chunk_id": "chunk_2411",
+    "source_title": "Cinema of the United States"
+  },
+  {
+    "question": "What is stated about Home economics?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Home_economics",
+    "chunk_id": "chunk_1888",
+    "source_title": "Home economics"
+  },
+  {
+    "question": "What is stated about Baltimore?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Baltimore",
+    "chunk_id": "chunk_4827",
+    "source_title": "Baltimore"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding History of Japan?",
+    "answer": "The first known written reference to Japan was recorded in the Chinese Book of Han in the first century AD.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Japan",
+    "chunk_id": "chunk_6686",
+    "source_title": "History of Japan"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Theropoda?",
+    "answer": "They are ancestrally carnivorous.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Theropoda",
+    "chunk_id": "chunk_48",
+    "source_title": "Theropoda"
+  },
+  {
+    "question": "Why is Elon Musk significant according to the passage?",
+    "answer": "He is the wealthiest individual in the world.",
     "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Graham_Hancock",
-    "chunk_id": "chunk_763",
-    "source_title": "Graham Hancock"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Elon_Musk",
+    "chunk_id": "chunk_1922",
+    "source_title": "Elon Musk"
   },
   {
-    "question": "What is stated about Geography of Taiwan?",
-    "answer": "The terrain in Taiwan is divided into two parts : the flat to gently rolling plains in the west, where 90% of the population lives , and the mostly rugged forest-covered mountains in the eastern two-thirds.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Geography_of_Taiwan",
-    "chunk_id": "chunk_5515",
-    "source_title": "Geography of Taiwan"
+    "question": "Why is Soviet Union in World War II significant according to the passage?",
+    "answer": "The Soviet Union came out of World War II militarily victorious but economically and structurally devastated.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Soviet_Union_in_World_War_II",
+    "chunk_id": "chunk_4174",
+    "source_title": "Soviet Union in World War II"
   },
   {
-    "question": "How do multiple facts in the passage connect regarding Shubman Gill?",
-    "answer": "He is the fastest player to reach 2000 runs in 38 innings and 2500 runs in 50 innings.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Shubman_Gill",
-    "chunk_id": "chunk_2308",
-    "source_title": "Shubman Gill"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Space exploration?",
+    "question": "How do multiple facts in the passage connect regarding History of Facebook?",
     "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Space_exploration",
-    "chunk_id": "chunk_2387",
-    "source_title": "Space exploration"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Facebook",
+    "chunk_id": "chunk_3781",
+    "source_title": "History of Facebook"
   },
   {
-    "question": "What are the key differences mentioned about Brutalist architecture?",
-    "answer": "The style commonly makes use of exposed , unpainted concrete or brick , angular geometric shapes and a predominantly monochrome colour palette.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
-    "chunk_id": "chunk_5788",
-    "source_title": "Brutalist architecture"
-  },
-  {
-    "question": "What are the key differences mentioned about Chief of the Army Staff (India)?",
-    "answer": "The Chief of the Army Staff ( COAS ) is a statutory office held by the professional head of the Indian Army ( IA ) , the land forces branch of the Indian Armed Forces.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Chief_of_the_Army_Staff_(India)",
-    "chunk_id": "chunk_1131",
-    "source_title": "Chief of the Army Staff (India)"
-  },
-  {
-    "question": "What is stated about Culture of England?",
-    "answer": "The way of life, especially the general customs and beliefs, of a parti.",
+    "question": "What is stated about Ancient history?",
+    "answer": "The answer is not available in the provided context.",
     "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Culture_of_England",
-    "chunk_id": "chunk_6006",
-    "source_title": "Culture of England"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ancient_history",
+    "chunk_id": "chunk_5882",
+    "source_title": "Ancient history"
   },
   {
-    "question": "What is stated about Red (Taylor Swift album)?",
-    "answer": "The album is about the aftermath of an intense breakup.",
+    "question": "What are the key differences mentioned about History of Greenland?",
+    "answer": "The history of Greenland is a history of life under extreme Arctic conditions.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Greenland",
+    "chunk_id": "chunk_3471",
+    "source_title": "History of Greenland"
+  },
+  {
+    "question": "What are the key differences mentioned about The Chronicles of Narnia: The Lion, the Witch and the Wardrobe?",
+    "answer": "The Lion, the Witch and the Wardrobe was based on the 1950 novel The Lion, the Witch and the Wardrobe.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe",
+    "chunk_id": "chunk_2594",
+    "source_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "question": "Why is The Chronicles of Narnia: The Lion, the Witch and the Wardrobe significant according to the passage?",
+    "answer": "The series ' lasting appeal.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe",
+    "chunk_id": "chunk_2589",
+    "source_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "question": "What is stated about Climate change mitigation?",
+    "answer": "The answer is not available in the provided context.",
     "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)",
-    "chunk_id": "chunk_455",
-    "source_title": "Red (Taylor Swift album)"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Climate_change_mitigation",
+    "chunk_id": "chunk_758",
+    "source_title": "Climate change mitigation"
   },
   {
-    "question": "How do multiple facts in the passage connect regarding Senegal?",
+    "question": "What is stated about History of physics?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_physics",
+    "chunk_id": "chunk_6402",
+    "source_title": "History of physics"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Wealth of Donald Trump?",
+    "answer": "Wealth Trump has said he began his career with a small loan of a million dollars from his father and that he had to pay it back with interest.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Wealth_of_Donald_Trump",
+    "chunk_id": "chunk_1687",
+    "source_title": "Wealth of Donald Trump"
+  },
+  {
+    "question": "Why is War crimes in World War II significant according to the passage?",
+    "answer": "The largest scale of war crimes and crimes against humanity ever committed in an armed conflict.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/War_crimes_in_World_War_II",
+    "chunk_id": "chunk_4210",
+    "source_title": "War crimes in World War II"
+  },
+  {
+    "question": "What are the key differences mentioned about Residency (medicine)?",
+    "answer": "This term comes from the fact that resident physicians traditionally spend the majority of their training  in house '' ( i.e. , the hospital ) . The similar term residency is named as such due to resident physicians of the 19th century residing at the dormitories of the hospital in which they received training .",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Residency_(medicine)",
+    "chunk_id": "chunk_4681",
+    "source_title": "Residency (medicine)"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding History of Canada?",
     "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Senegal",
-    "chunk_id": "chunk_4090",
-    "source_title": "Senegal"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Canada",
+    "chunk_id": "chunk_4367",
+    "source_title": "History of Canada"
+  },
+  {
+    "question": "What is stated about Alternative medicine?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Alternative_medicine",
+    "chunk_id": "chunk_6785",
+    "source_title": "Alternative medicine"
   },
   {
     "question": "How do multiple facts in the passage connect regarding Poitiers?",
     "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
     "ground_truth_url": "https://en.wikipedia.org/wiki/Poitiers",
-    "chunk_id": "chunk_1747",
+    "chunk_id": "chunk_2530",
     "source_title": "Poitiers"
   },
   {
-    "question": "What are the key differences mentioned about Knut (polar bear)?",
-    "answer": "The polar bear is white- or yellowish-furred with black skin and a thick layer of fat. It is more slender than the brown bear, with a narrower skull, longer neck and lower shoulder hump. Its teeth are sharper an stay in Berlin was still temporary.",
+    "question": "What is stated about Ancient technology?",
+    "answer": "The characteristics of ancient Egyptian technology are indicated by a set of artifacts and customs that lasted for thousands of years.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ancient_technology",
+    "chunk_id": "chunk_501",
+    "source_title": "Ancient technology"
+  },
+  {
+    "question": "What are the key differences mentioned about World war?",
+    "answer": "The First and Second World Wars.",
     "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Knut_(polar_bear)",
-    "chunk_id": "chunk_66",
-    "source_title": "Knut (polar bear)"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/World_war",
+    "chunk_id": "chunk_2657",
+    "source_title": "World war"
   },
   {
-    "question": "Why is Nuclear physics significant according to the passage?",
-    "answer": "The strong force to explain how the nucleus holds together.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Nuclear_physics",
-    "chunk_id": "chunk_2742",
-    "source_title": "Nuclear physics"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Bachelor of Fine Arts?",
+    "question": "How do multiple facts in the passage connect regarding Alternate history?",
     "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Bachelor_of_Fine_Arts",
-    "chunk_id": "chunk_3457",
-    "source_title": "Bachelor of Fine Arts"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Alternate_history",
+    "chunk_id": "chunk_5194",
+    "source_title": "Alternate history"
   },
   {
-    "question": "Why is Culture of Japan significant according to the passage?",
-    "answer": "The country 's prehistoric Jmon period , to its contemporary modern culture , which absorbs influences from Asia and other regions of the world.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Culture_of_Japan",
-    "chunk_id": "chunk_4312",
-    "source_title": "Culture of Japan"
-  },
-  {
-    "question": "What is stated about Andy Warhol?",
-    "answer": "I went into business art . I wanted to be an art business man or a business artist. Being good in business is the most fascinating kind of art.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Andy_Warhol",
-    "chunk_id": "chunk_3192",
-    "source_title": "Andy Warhol"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Culture of England?",
-    "answer": "The answer is not available in the given context.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Culture_of_England",
-    "chunk_id": "chunk_6023",
-    "source_title": "Culture of England"
-  },
-  {
-    "question": "Why is Bank (geography) significant according to the passage?",
-    "answer": "The land alongside a body of water.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Bank_(geography)",
-    "chunk_id": "chunk_4433",
-    "source_title": "Bank (geography)"
-  },
-  {
-    "question": "What is stated about Behavioral economics?",
-    "answer": "The answer is not available in the provided context.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
-    "chunk_id": "chunk_290",
-    "source_title": "Behavioral economics"
-  },
-  {
-    "question": "Why is Chicago Tylenol murders significant according to the passage?",
-    "answer": "The victims consumed Tylenol branded acetaminophen ( paracetamol ) powder-filled capsules that had been adulterated with potassium cyanide.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Chicago_Tylenol_murders",
-    "chunk_id": "chunk_4",
-    "source_title": "Chicago Tylenol murders"
-  },
-  {
-    "question": "What is stated about Exploration?",
-    "answer": "The process of exploring , an activity which has some expectation of discovery.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Exploration",
-    "chunk_id": "chunk_2438",
-    "source_title": "Exploration"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Will (philosophy)?",
-    "answer": "The answer is not available in the given context.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Will_(philosophy)",
-    "chunk_id": "chunk_948",
-    "source_title": "Will (philosophy)"
-  },
-  {
-    "question": "Why is The Culture significant according to the passage?",
-    "answer": "It allows the Minds in particular to scheme amongst themselves in a very efficient manner, and occasionally withhold information.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Culture",
-    "chunk_id": "chunk_3352",
-    "source_title": "The Culture"
-  },
-  {
-    "question": "Why is The Lord of the Rings: The Return of the King significant according to the passage?",
-    "answer": "The Lord of the Rings is one of the best-selling books ever written.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
-    "chunk_id": "chunk_176",
-    "source_title": "The Lord of the Rings: The Return of the King"
-  },
-  {
-    "question": "What is stated about Spin (physics)?",
-    "answer": "The spin is a property of the pilot wave and not of the particle itself.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Spin_(physics)",
-    "chunk_id": "chunk_2640",
-    "source_title": "Spin (physics)"
-  },
-  {
-    "question": "What are the key differences mentioned about Genie (feral child)?",
-    "answer": "She was a victim of severe abuse , neglect , and social isolation.",
+    "question": "What are the key differences mentioned about Babylonian astronomy?",
+    "answer": "The numeral system used , sexagesimal , was based on 60 , as opposed to ten in the modern decimal system.",
     "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
-    "chunk_id": "chunk_1714",
-    "source_title": "Genie (feral child)"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Babylonian_astronomy",
+    "chunk_id": "chunk_5458",
+    "source_title": "Babylonian astronomy"
   },
   {
-    "question": "Why is Relationship of Donald Trump and Jeffrey Epstein significant according to the passage?",
-    "answer": "The unwillingness of the Trump administration to release files relating to Epstein.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Relationship_of_Donald_Trump_and_Jeffrey_Epstein",
-    "chunk_id": "chunk_1490",
-    "source_title": "Relationship of Donald Trump and Jeffrey Epstein"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Harry Potter (TV series)?",
-    "answer": "The answer is not available in the given context.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Harry_Potter_(TV_series)",
-    "chunk_id": "chunk_2151",
-    "source_title": "Harry Potter (TV series)"
-  },
-  {
-    "question": "Why is Indian Army significant according to the passage?",
-    "answer": "It is the largest standing army in the world.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Indian_Army",
-    "chunk_id": "chunk_1060",
-    "source_title": "Indian Army"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Werner Heisenberg?",
-    "answer": "Heisenberg was the target of an assassination by spy Moe Berg in the film The Catcher Was a Spy.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Werner_Heisenberg",
-    "chunk_id": "chunk_3662",
-    "source_title": "Werner Heisenberg"
-  },
-  {
-    "question": "Why is Political philosophy significant according to the passage?",
+    "question": "Why is List of Mount Everest records significant according to the passage?",
     "answer": "The answer is not available in the provided context.",
     "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Political_philosophy",
-    "chunk_id": "chunk_973",
-    "source_title": "Political philosophy"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/List_of_Mount_Everest_records",
+    "chunk_id": "chunk_2332",
+    "source_title": "List of Mount Everest records"
   },
   {
-    "question": "Why is Zodiac Killer significant according to the passage?",
-    "answer": "His crimes , letters and cryptograms to police and newspapers inspired many movies , novels , television and more.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Zodiac_Killer",
-    "chunk_id": "chunk_2316",
-    "source_title": "Zodiac Killer"
-  },
-  {
-    "question": "What are the key differences mentioned about Theropoda?",
-    "answer": "They are ancestrally carnivorous, although a number of theropod groups evolved to become herbivores and omnivores.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Theropoda",
-    "chunk_id": "chunk_651",
-    "source_title": "Theropoda"
-  },
-  {
-    "question": "What are the key differences mentioned about Postmodern architecture?",
-    "answer": "The top contradicts this.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Postmodern_architecture",
-    "chunk_id": "chunk_2722",
-    "source_title": "Postmodern architecture"
-  },
-  {
-    "question": "What are the key differences mentioned about Modern architecture?",
-    "answer": "Modern architecture was based upon new and innovative technologies of construction (particularly the use of glass, steel, and concrete ) ; the principle of functionalism ( i.e. that form should follow function ) ; an embrace of minimalism ; and a rejection of ornament.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Modern_architecture",
-    "chunk_id": "chunk_4333",
-    "source_title": "Modern architecture"
-  },
-  {
-    "question": "What are the key differences mentioned about Shooting sports?",
-    "answer": "They generally have a longer range and greater accuracy than handguns, and are popular for hunting.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Shooting_sports",
-    "chunk_id": "chunk_4415",
-    "source_title": "Shooting sports"
-  },
-  {
-    "question": "Why is Palladian architecture significant according to the passage?",
-    "answer": "The answer is not available in the given context.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Palladian_architecture",
-    "chunk_id": "chunk_3996",
-    "source_title": "Palladian architecture"
-  },
-  {
-    "question": "Why is Indian National Army significant according to the passage?",
-    "answer": "The Indian Army was responsible for the defence of both the British Raj and the princely states, which could also have their own armies.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Indian_National_Army",
-    "chunk_id": "chunk_1109",
-    "source_title": "Indian National Army"
-  },
-  {
-    "question": "What is stated about The Eras Tour?",
-    "answer": "It was described as one of the most prominent cultural phenomena of the 21st century.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Eras_Tour",
-    "chunk_id": "chunk_481",
-    "source_title": "The Eras Tour"
-  },
-  {
-    "question": "Why is Rustication (architecture) significant according to the passage?",
-    "answer": "It gives visible surfaces a finish texture that contrasts with smooth, squared-block masonry called ashlar.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Rustication_(architecture)",
-    "chunk_id": "chunk_5361",
-    "source_title": "Rustication (architecture)"
-  },
-  {
-    "question": "Why is Indian Army significant according to the passage?",
-    "answer": "It is the largest standing army in the world.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Indian_Army",
-    "chunk_id": "chunk_1027",
-    "source_title": "Indian Army"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding 2025 in sports?",
-    "answer": "2025 in sports describes the year 's events in world sports.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/2025_in_sports",
-    "chunk_id": "chunk_2806",
-    "source_title": "2025 in sports"
-  },
-  {
-    "question": "What are the key differences mentioned about Draft (sports)?",
-    "answer": "The MLB draft generally receives less attention than the drafts in other American sports, since drafted players usually spend several years in the minor leagues before they crack the Major draft the teams from the league will pick up to three players each from colleges across the United States.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Draft_(sports)",
-    "chunk_id": "chunk_4775",
-    "source_title": "Draft (sports)"
-  },
-  {
-    "question": "What are the key differences mentioned about Gravity?",
-    "answer": "The force of gravity is inversely proportional to the square of the distance between them.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Gravity",
-    "chunk_id": "chunk_3159",
-    "source_title": "Gravity"
-  },
-  {
-    "question": "What are the key differences mentioned about Meridian (geography)?",
-    "answer": "The position of a point along the meridian at a given longitude is given by its latitude, measured in angular degrees north or south of the Equator.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Meridian_(geography)",
-    "chunk_id": "chunk_3886",
-    "source_title": "Meridian (geography)"
-  },
-  {
-    "question": "Why is Modern architecture significant according to the passage?",
-    "answer": "It was prominent in the 20th century.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Modern_architecture",
-    "chunk_id": "chunk_4344",
-    "source_title": "Modern architecture"
-  },
-  {
-    "question": "What are the key differences mentioned about Wealth of Donald Trump?",
-    "answer": "The net worth of Donald Trump is not publicly known.",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Wealth_of_Donald_Trump",
-    "chunk_id": "chunk_1513",
-    "source_title": "Wealth of Donald Trump"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Chinese culture?",
-    "answer": "The cultural differences between adjacent provinces can often be as big as that between adjacent European nations.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Chinese_culture",
-    "chunk_id": "chunk_4890",
-    "source_title": "Chinese culture"
-  },
-  {
-    "question": "What is stated about Netherlands?",
+    "question": "What is stated about Walking with Dinosaurs?",
     "answer": "The answer is not available in the provided context.",
     "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Netherlands",
-    "chunk_id": "chunk_4623",
-    "source_title": "Netherlands"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Walking_with_Dinosaurs",
+    "chunk_id": "chunk_79",
+    "source_title": "Walking with Dinosaurs"
   },
   {
-    "question": "What is stated about Anna University?",
-    "answer": "It is a public state university located in Chennai , Tamil Nadu , India . The main campus is in Guindy.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Anna_University",
-    "chunk_id": "chunk_3674",
-    "source_title": "Anna University"
-  },
-  {
-    "question": "Why is Donald Trump significant according to the passage?",
-    "answer": "He is the 47th president of the United States.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Donald_Trump",
-    "chunk_id": "chunk_1367",
-    "source_title": "Donald Trump"
-  },
-  {
-    "question": "What is stated about Convergence culture?",
-    "answer": "It recognizes changing relationships and experiences with new media.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Convergence_culture",
-    "chunk_id": "chunk_5025",
-    "source_title": "Convergence culture"
-  },
-  {
-    "question": "What are the key differences mentioned about The Lord of the Rings: The Fellowship of the Ring?",
-    "answer": "The Lord of the Rings is a trilogy of epic high fantasy adventure films directed by Peter Jackson.",
+    "question": "What are the key differences mentioned about Cyberbullying?",
+    "answer": "The combination of cameras and Internet access and the instant availability of these modern smartphone technologies yield specific types of cyberbullying not found in other platforms.",
     "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
-    "chunk_id": "chunk_140",
-    "source_title": "The Lord of the Rings: The Fellowship of the Ring"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cyberbullying",
+    "chunk_id": "chunk_2017",
+    "source_title": "Cyberbullying"
   },
   {
-    "question": "How do multiple facts in the passage connect regarding Mount Everest?",
+    "question": "Why is World War II by country significant according to the passage?",
+    "answer": "The death of over 60 million people.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/World_War_II_by_country",
+    "chunk_id": "chunk_5063",
+    "source_title": "World War II by country"
+  },
+  {
+    "question": "What are the key differences mentioned about History of medicine?",
+    "answer": "The history of medicine is both a study of medicine throughout history as well as a multidisciplinary field of study that seeks to explore and understand medical practices, both past and present , throughout human societies.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_medicine",
+    "chunk_id": "chunk_6509",
+    "source_title": "History of medicine"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding History of Iran?",
+    "answer": "The history of Iran ( also known as Persia ) is intertwined with Greater Iran.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Iran",
+    "chunk_id": "chunk_3209",
+    "source_title": "History of Iran"
+  },
+  {
+    "question": "What are the key differences mentioned about Richard Feynman?",
+    "answer": "His IQ was 125\u2014high but  merely respectable ''.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Richard_Feynman",
+    "chunk_id": "chunk_7037",
+    "source_title": "Richard Feynman"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Consequences of the attack on Pearl Harbor?",
+    "answer": "The Waning Moon and the Rising Sun.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Consequences_of_the_attack_on_Pearl_Harbor",
+    "chunk_id": "chunk_5513",
+    "source_title": "Consequences of the attack on Pearl Harbor"
+  },
+  {
+    "question": "What are the key differences mentioned about History of Korea?",
+    "answer": "The Bronze Age in Korea is often held to have begun around 900\u2013800 BC , though the transition to the Bronze Age may have begun as far back as 2300 BC .",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Korea",
+    "chunk_id": "chunk_6336",
+    "source_title": "History of Korea"
+  },
+  {
+    "question": "What is stated about History of astronomy?",
+    "answer": "The history of astronomy focuses on the efforts of civilizations to understand the universe beyond earth 's atmosphere.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_astronomy",
+    "chunk_id": "chunk_5154",
+    "source_title": "History of astronomy"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Allies of World War I?",
     "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Mount_Everest",
-    "chunk_id": "chunk_562",
-    "source_title": "Mount Everest"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Allies_of_World_War_I",
+    "chunk_id": "chunk_5450",
+    "source_title": "Allies of World War I"
   },
   {
-    "question": "Why is Shooting sports significant according to the passage?",
-    "answer": "Shooting sports focus on shooting accuracy , precision and speed.",
+    "question": "How do multiple facts in the passage connect regarding History of books?",
+    "answer": "These books describe Israel \u2019 s history as a people in the land of Canaan.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_books",
+    "chunk_id": "chunk_3296",
+    "source_title": "History of books"
+  },
+  {
+    "question": "Why is Use of social network websites in investigations significant according to the passage?",
+    "answer": "The answer is not available in the provided context.",
     "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Shooting_sports",
-    "chunk_id": "chunk_4426",
-    "source_title": "Shooting sports"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Use_of_social_network_websites_in_investigations",
+    "chunk_id": "chunk_2094",
+    "source_title": "Use of social network websites in investigations"
   },
   {
-    "question": "What is stated about Sports dynasty?",
-    "answer": "a team or individual that dominates their sport or league for an extended length of time.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Sports_dynasty",
-    "chunk_id": "chunk_3019",
-    "source_title": "Sports dynasty"
+    "question": "What are the key differences mentioned about Cradle of civilization?",
+    "answer": "The cradle of civilization has a focus where the inhabitants came to build cities , to create writing systems , to experiment in techniques for making pottery and using metals , to domesticate animals , and to by tectonic upheavals or subsidence , or the silting up of rivers due to agricultural practices.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Cradle_of_civilization",
+    "chunk_id": "chunk_459",
+    "source_title": "Cradle of civilization"
   },
   {
-    "question": "Why is Ted Bundy significant according to the passage?",
-    "answer": "He murdered and raped dozens of women and girls in the United States during the 1970s.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Ted_Bundy",
-    "chunk_id": "chunk_813",
-    "source_title": "Ted Bundy"
-  },
-  {
-    "question": "What is stated about K-pop?",
-    "answer": "It is a form of popular music originating in South Korea.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/K-pop",
-    "chunk_id": "chunk_1952",
-    "source_title": "K-pop"
-  },
-  {
-    "question": "Why is Romanian architecture significant according to the passage?",
-    "answer": "It was very important for people to have houses fashionable with the preferences and the styles of the time.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Romanian_architecture",
-    "chunk_id": "chunk_2907",
-    "source_title": "Romanian architecture"
-  },
-  {
-    "question": "What is stated about Genie (feral child)?",
-    "answer": "She was a victim of severe abuse , neglect , and social isolation.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
-    "chunk_id": "chunk_1692",
-    "source_title": "Genie (feral child)"
-  },
-  {
-    "question": "What are the key differences mentioned about Christian culture?",
+    "question": "What are the key differences mentioned about Keynesian economics?",
     "answer": "The answer is not available in the given context.",
     "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Christian_culture",
-    "chunk_id": "chunk_3791",
-    "source_title": "Christian culture"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Keynesian_economics",
+    "chunk_id": "chunk_1822",
+    "source_title": "Keynesian economics"
   },
   {
-    "question": "What are the key differences mentioned about List of unsolved problems in physics?",
-    "answer": "Some of the major unsolved problems in physics are theoretical , meaning that existing theories are currently unable to explain certain observed phenomena or experimental results. Others are experimental , involving challenges in creating experiments to test proposed theories or to investigate specific phenomena in greater detail.",
+    "question": "Why is List of Game of Thrones characters significant according to the passage?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_characters",
+    "chunk_id": "chunk_958",
+    "source_title": "List of Game of Thrones characters"
+  },
+  {
+    "question": "Why is Tylenol significant according to the passage?",
+    "answer": "The answer is not available in the given context.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Tylenol",
+    "chunk_id": "chunk_2848",
+    "source_title": "Tylenol"
+  },
+  {
+    "question": "Why is Penal transportation significant according to the passage?",
+    "answer": "The aim was to enlarge population, not diminish it.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Penal_transportation",
+    "chunk_id": "chunk_3950",
+    "source_title": "Penal transportation"
+  },
+  {
+    "question": "What are the key differences mentioned about Climate change denial?",
+    "answer": "The answer is not available in the given context.",
     "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
-    "chunk_id": "chunk_3712",
-    "source_title": "List of unsolved problems in physics"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Climate_change_denial",
+    "chunk_id": "chunk_727",
+    "source_title": "Climate change denial"
   },
   {
-    "question": "What is stated about Taylor Swift: The Eras Tour?",
-    "answer": "The Eras Tour was Swift 's sixth headlining concert tour and the highest-grossing tour of all time.",
+    "question": "What is stated about Collaboration with Nazi Germany and Fascist Italy?",
+    "answer": "The answer is not available in the given context.",
     "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Taylor_Swift:_The_Eras_Tour",
-    "chunk_id": "chunk_509",
-    "source_title": "Taylor Swift: The Eras Tour"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Donald Trump sexual misconduct allegations?",
-    "answer": "Since the 1970s , at least 28 women have accused Donald Trump of sexual misconduct.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations",
-    "chunk_id": "chunk_1453",
-    "source_title": "Donald Trump sexual misconduct allegations"
-  },
-  {
-    "question": "Why is History of mathematics significant according to the passage?",
-    "answer": "The answer is not available in the given context.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_mathematics",
-    "chunk_id": "chunk_4879",
-    "source_title": "History of mathematics"
-  },
-  {
-    "question": "Why is Matrix (mathematics) significant according to the passage?",
-    "answer": "It is a rectangular array of numbers or other mathematical objects with elements or entries arranged in rows and columns , usually satisfying certain properties of addition and multiplication.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Matrix_(mathematics)",
-    "chunk_id": "chunk_5829",
-    "source_title": "Matrix (mathematics)"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Differential (mathematics)?",
-    "answer": "The answer is not available in the given context.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Differential_(mathematics)",
-    "chunk_id": "chunk_5188",
-    "source_title": "Differential (mathematics)"
-  },
-  {
-    "question": "Why is Chinese mathematics significant according to the passage?",
-    "answer": "The Chinese independently developed a real number system that includes significantly large and negative numbers , more than one numeral system ( binary and decimal ) , algebra , geometry , number theory and trigonometry.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Chinese_mathematics",
-    "chunk_id": "chunk_4137",
-    "source_title": "Chinese mathematics"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Collaboration_with_Nazi_Germany_and_Fascist_Italy",
+    "chunk_id": "chunk_4350",
+    "source_title": "Collaboration with Nazi Germany and Fascist Italy"
   },
   {
     "question": "Why is Harry Potter significant according to the passage?",
     "answer": "Harry Potter is a hero because he loves others, even willing to accept death to save them.",
     "type": "inferential",
     "ground_truth_url": "https://en.wikipedia.org/wiki/Harry_Potter",
-    "chunk_id": "chunk_2078",
+    "chunk_id": "chunk_1476",
     "source_title": "Harry Potter"
   },
   {
-    "question": "Why is World War III significant according to the passage?",
-    "answer": "It is widely predicted that such a war would involve all of the great powers, like its two predecessors, and the use of nuclear weapons or other weapons of mass destruction, thereby surpassing all prior conflicts in scale , devastation , and loss of life.",
+    "question": "Why is History of France significant according to the passage?",
+    "answer": "The period was also marked by significant linguistic and educational reforms.",
     "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/World_War_III",
-    "chunk_id": "chunk_1244",
-    "source_title": "World War III"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_France",
+    "chunk_id": "chunk_3099",
+    "source_title": "History of France"
   },
   {
-    "question": "What is stated about List of unsolved problems in physics?",
-    "answer": "The answer is not available in the provided context.",
+    "question": "What is stated about Donald Trump sexual misconduct allegations?",
+    "answer": "Trump has publicly denied the allegations.",
     "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
-    "chunk_id": "chunk_3720",
-    "source_title": "List of unsolved problems in physics"
-  },
-  {
-    "question": "What are the key differences mentioned about Neoclassical architecture?",
-    "answer": "The prevailing styles of architecture in most of Europe for the previous two centuries, Renaissance architecture and Baroque architecture, already represented partial revivals of the Classical architecture of ancient Rome and ancient Greek architecture, but the Neoclassical movement aimed to strip a also in Turin , Milan ( Giuseppe Piermarini ) and Trieste ( Matteo Pertsch ) . In the latter two cities , just as in Tuscany , the sober neoclassical style was linked to the reformism of the ruling Habsburg enlightened monarchs .",
-    "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Neoclassical_architecture",
-    "chunk_id": "chunk_5437",
-    "source_title": "Neoclassical architecture"
-  },
-  {
-    "question": "What is stated about List of homicides in Illinois?",
-    "answer": "It is divided into five subject areas as follows : Multiple homicides \u2013 homicides having multiple victims . It includes incidents such as the 1886 Haymarket affair , the 1966 murder of six student nurses by Richard Speck , and the 1982 Chicago Tylenol murders Serial killers \u2013 persons who murder three or more persons , with the incidents taking place over more than a month and including a significant pe  caplet '' , a tablet made in the shape of a capsule, as a drug delivery form and with the addition of tamper-evident safety seals to bottles of many sorts.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/List_of_homicides_in_Illinois",
-    "chunk_id": "chunk_19",
-    "source_title": "List of homicides in Illinois"
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Donald Trump sexual misconduct allegations?",
-    "answer": "Since the 1970s , at least 28 women have accused Donald Trump of sexual misconduct.",
-    "type": "multi-hop",
     "ground_truth_url": "https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations",
-    "chunk_id": "chunk_1465",
+    "chunk_id": "chunk_1701",
     "source_title": "Donald Trump sexual misconduct allegations"
   },
   {
-    "question": "How do multiple facts in the passage connect regarding World War I?",
-    "answer": "World War I was a global conflict between two coalitions : the Allies ( or Entente ) and the Central Powers.",
-    "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/World_War_I",
-    "chunk_id": "chunk_1154",
-    "source_title": "World War I"
-  },
-  {
-    "question": "Why is Will (philosophy) significant according to the passage?",
-    "answer": "It is considered central to the field of ethics because of its role in enabling deliberate action.",
+    "question": "Why is Traditional Chinese medicine significant according to the passage?",
+    "answer": "The demand for traditional medicines in China is a major generator of illegal wildlife smuggling.",
     "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Will_(philosophy)",
-    "chunk_id": "chunk_950",
-    "source_title": "Will (philosophy)"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine",
+    "chunk_id": "chunk_2955",
+    "source_title": "Traditional Chinese medicine"
   },
   {
-    "question": "What are the key differences mentioned about Astrophysics?",
+    "question": "Why is Aesthetics significant according to the passage?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Aesthetics",
+    "chunk_id": "chunk_298",
+    "source_title": "Aesthetics"
+  },
+  {
+    "question": "What is stated about The Sweet?",
+    "answer": "The Sweet is a compilation album released as English glam rock band Sweet 's debut album in the US and Canada , substituting for the 1971 UK album Funny How Sweet Co-Co Can Be.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Sweet",
+    "chunk_id": "chunk_397",
+    "source_title": "The Sweet"
+  },
+  {
+    "question": "What is stated about Aristotelian physics?",
+    "answer": "The answer is not available in the given context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Aristotelian_physics",
+    "chunk_id": "chunk_5696",
+    "source_title": "Aristotelian physics"
+  },
+  {
+    "question": "What are the key differences mentioned about Sigmund Freud?",
+    "answer": "She replaces Freud 's term of castration with Stanley Cavell 's concept of  victimization '' which is a more universal term that applies equally to both sexes.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+    "chunk_id": "chunk_1262",
+    "source_title": "Sigmund Freud"
+  },
+  {
+    "question": "What are the key differences mentioned about Observational astronomy?",
     "answer": "The answer is not available in the given context.",
     "type": "comparative",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Astrophysics",
-    "chunk_id": "chunk_2838",
-    "source_title": "Astrophysics"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Observational_astronomy",
+    "chunk_id": "chunk_6010",
+    "source_title": "Observational astronomy"
   },
   {
-    "question": "What are the key differences mentioned about World War II?",
-    "answer": "The Allies and the Axis powers.",
+    "question": "What are the key differences mentioned about Soviet Union in World War II?",
+    "answer": "The Soviet Union came out of World War II militarily victorious but economically and structurally devastated.",
     "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Soviet_Union_in_World_War_II",
+    "chunk_id": "chunk_4173",
+    "source_title": "Soviet Union in World War II"
+  },
+  {
+    "question": "Why is The Summer I Turned Pretty (trilogy) significant according to the passage?",
+    "answer": "The series was national best sellers.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Summer_I_Turned_Pretty_(trilogy)",
+    "chunk_id": "chunk_149",
+    "source_title": "The Summer I Turned Pretty (trilogy)"
+  },
+  {
+    "question": "What is stated about Walking with Dinosaurs?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Walking_with_Dinosaurs",
+    "chunk_id": "chunk_90",
+    "source_title": "Walking with Dinosaurs"
+  },
+  {
+    "question": "What are the key differences mentioned about Military history of the United States during World War II?",
+    "answer": "The United States is generally considered to have entered the conflict with the 7 December 1941 surprise attack on Pearl Harbor by Japan and exited it with the surrender of Japan on 2 September 1945.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Military_history_of_the_United_States_during_World_War_II",
+    "chunk_id": "chunk_6166",
+    "source_title": "Military history of the United States during World War II"
+  },
+  {
+    "question": "What are the key differences mentioned about History of Ukraine?",
+    "answer": "The Russian point-of-view of Ukrainian history became the prevailing one in Western academia.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Ukraine",
+    "chunk_id": "chunk_5841",
+    "source_title": "History of Ukraine"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Elon Musk salute controversy?",
+    "answer": "It was widely condemned as an intentional Nazi salute in Germany.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Elon_Musk_salute_controversy",
+    "chunk_id": "chunk_1933",
+    "source_title": "Elon Musk salute controversy"
+  },
+  {
+    "question": "Why is Human history significant according to the passage?",
+    "answer": "The scope of its topic poses the unique challenge of synthesizing a coherent and comprehensive narrative spanning different cultures, regions, and time periods while taking diverse individual perspectives into account.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Human_history",
+    "chunk_id": "chunk_6040",
+    "source_title": "Human history"
+  },
+  {
+    "question": "What is stated about Allies of World War II?",
+    "answer": "They were an international military coalition formed during World War II.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+    "chunk_id": "chunk_2788",
+    "source_title": "Allies of World War II"
+  },
+  {
+    "question": "Why is World War II significant according to the passage?",
+    "answer": "The death of over 60 million people.",
+    "type": "inferential",
     "ground_truth_url": "https://en.wikipedia.org/wiki/World_War_II",
-    "chunk_id": "chunk_1215",
+    "chunk_id": "chunk_2741",
     "source_title": "World War II"
   },
   {
-    "question": "What is stated about Olympic sports?",
-    "answer": "The number of Olympic sports is limited by athlete and event limits.",
-    "type": "factual",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Olympic_sports",
-    "chunk_id": "chunk_2862",
-    "source_title": "Olympic sports"
+    "question": "What are the key differences mentioned about Prisoner of war?",
+    "answer": "The name change was introduced to distinguish between enemy and U.S. captives.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Prisoner_of_war",
+    "chunk_id": "chunk_5977",
+    "source_title": "Prisoner of war"
   },
   {
-    "question": "How do multiple facts in the passage connect regarding Cradle of civilization?",
+    "question": "Why is Richard Feynman significant according to the passage?",
+    "answer": "Challenger disaster Feynman played an important role on the Presidential Question.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Richard_Feynman",
+    "chunk_id": "chunk_7024",
+    "source_title": "Richard Feynman"
+  },
+  {
+    "question": "What are the key differences mentioned about Transgender history?",
+    "answer": "The LGBT community has been filtered through gay history.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Transgender_history",
+    "chunk_id": "chunk_3335",
+    "source_title": "Transgender history"
+  },
+  {
+    "question": "Why is Prisoner of war significant according to the passage?",
+    "answer": "The earliest recorded usage of the phrase  prisoner of war '' dates back to 1610.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Prisoner_of_war",
+    "chunk_id": "chunk_6004",
+    "source_title": "Prisoner of war"
+  },
+  {
+    "question": "What is stated about Ted Bundy?",
+    "answer": "The answer is not available in the given context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Ted_Bundy",
+    "chunk_id": "chunk_344",
+    "source_title": "Ted Bundy"
+  },
+  {
+    "question": "Why is Force significant according to the passage?",
+    "answer": "Because the magnitude and direction of a force are both important.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Force",
+    "chunk_id": "chunk_3755",
+    "source_title": "Force"
+  },
+  {
+    "question": "What are the key differences mentioned about Veterinary medicine?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Veterinary_medicine",
+    "chunk_id": "chunk_3016",
+    "source_title": "Veterinary medicine"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding History of Japan?",
+    "answer": "The first known written reference to Japan was recorded in the Chinese Book of Han in the first century AD.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Japan",
+    "chunk_id": "chunk_6675",
+    "source_title": "History of Japan"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Patronage in astronomy?",
     "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Patronage_in_astronomy",
+    "chunk_id": "chunk_4873",
+    "source_title": "Patronage in astronomy"
+  },
+  {
+    "question": "Why is Meaning (philosophy) significant according to the passage?",
+    "answer": "The answer is not available in the given context.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Meaning_(philosophy)",
+    "chunk_id": "chunk_260",
+    "source_title": "Meaning (philosophy)"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Royal Challengers Bengaluru?",
+    "answer": "The answer is not available in the given context.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Royal_Challengers_Bengaluru",
+    "chunk_id": "chunk_666",
+    "source_title": "Royal Challengers Bengaluru"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Freud family?",
+    "answer": "Freud 's descendants and relatives have become well known in different fields.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Freud_family",
+    "chunk_id": "chunk_1324",
+    "source_title": "Freud family"
+  },
+  {
+    "question": "Why is Cradle of civilization significant according to the passage?",
+    "answer": "The cradle of civilization is a location and a culture where civilization was developed independently of other civilizations in other locations.",
+    "type": "inferential",
     "ground_truth_url": "https://en.wikipedia.org/wiki/Cradle_of_civilization",
-    "chunk_id": "chunk_731",
+    "chunk_id": "chunk_473",
     "source_title": "Cradle of civilization"
   },
   {
-    "question": "Why is Draft (sports) significant according to the passage?",
-    "answer": "The answer is not available in the given context.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Draft_(sports)",
-    "chunk_id": "chunk_4761",
-    "source_title": "Draft (sports)"
-  },
-  {
-    "question": "Why is Renaissance art significant according to the passage?",
-    "answer": "The answer is not available in the given context.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Renaissance_art",
-    "chunk_id": "chunk_5418",
-    "source_title": "Renaissance art"
-  },
-  {
-    "question": "Why is Polar bear jail significant according to the passage?",
-    "answer": "The answer is not available in the given context.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Polar_bear_jail",
-    "chunk_id": "chunk_68",
-    "source_title": "Polar bear jail"
-  },
-  {
-    "question": "Why is Donald Trump Jr. significant according to the passage?",
-    "answer": "He is an American businessman and activist.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Donald_Trump_Jr.",
-    "chunk_id": "chunk_1408",
-    "source_title": "Donald Trump Jr."
-  },
-  {
-    "question": "How do multiple facts in the passage connect regarding Solar physics?",
+    "question": "How do multiple facts in the passage connect regarding Higgs boson?",
     "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Solar_physics",
-    "chunk_id": "chunk_4668",
-    "source_title": "Solar physics"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Higgs_boson",
+    "chunk_id": "chunk_6835",
+    "source_title": "Higgs boson"
   },
   {
-    "question": "Why is Mathematical physics significant according to the passage?",
-    "answer": "The rigour of the similar type as found in mathematics.",
-    "type": "inferential",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Mathematical_physics",
-    "chunk_id": "chunk_4575",
-    "source_title": "Mathematical physics"
+    "question": "What is stated about History of Mexico?",
+    "answer": "The history of Mexico spans over three millennia.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/History_of_Mexico",
+    "chunk_id": "chunk_3062",
+    "source_title": "History of Mexico"
   },
   {
-    "question": "How do multiple facts in the passage connect regarding Geography of California?",
-    "answer": "The Sierra Nevada, the fertile farmlands of the Central Valley, and the arid Mojave Desert of the south are some of the geographic features of this U.S. state.",
+    "question": "What are the key differences mentioned about The Lord of the Rings?",
+    "answer": "The Lord of the Rings is an epic high fantasy novel written by the English author and scholar J. R. R. Tolkien.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+    "chunk_id": "chunk_1130",
+    "source_title": "The Lord of the Rings"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Penal transportation?",
+    "answer": "The answer is not available in the given context.",
     "type": "multi-hop",
-    "ground_truth_url": "https://en.wikipedia.org/wiki/Geography_of_California",
-    "chunk_id": "chunk_3178",
-    "source_title": "Geography of California"
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Penal_transportation",
+    "chunk_id": "chunk_3944",
+    "source_title": "Penal transportation"
+  },
+  {
+    "question": "What are the key differences mentioned about Donald Trump sexual misconduct allegations?",
+    "answer": "He has a history of insulting and belittling women when speaking to the media and on social media, and has made lewd comments about women, disparaged their physical appearance, and referred to them using derogatory epithets.",
+    "type": "comparative",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations",
+    "chunk_id": "chunk_1698",
+    "source_title": "Donald Trump sexual misconduct allegations"
+  },
+  {
+    "question": "What is stated about Void (astronomy)?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "factual",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Void_(astronomy)",
+    "chunk_id": "chunk_4741",
+    "source_title": "Void (astronomy)"
+  },
+  {
+    "question": "Why is Richard Feynman significant according to the passage?",
+    "answer": "Challenger disaster Feynman played an important role on the Presidential Question.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Richard_Feynman",
+    "chunk_id": "chunk_7044",
+    "source_title": "Richard Feynman"
+  },
+  {
+    "question": "Why is Causes of World War I significant according to the passage?",
+    "answer": "The causes of World War II have been given considerable attention by historians.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Causes_of_World_War_I",
+    "chunk_id": "chunk_5215",
+    "source_title": "Causes of World War I"
+  },
+  {
+    "question": "Why is List of unsolved problems in physics significant according to the passage?",
+    "answer": "The answer is not available in the given context.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+    "chunk_id": "chunk_5254",
+    "source_title": "List of unsolved problems in physics"
+  },
+  {
+    "question": "Why is Transportation in Vaughan significant according to the passage?",
+    "answer": "The answer is not available in the provided context.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Transportation_in_Vaughan",
+    "chunk_id": "chunk_4198",
+    "source_title": "Transportation in Vaughan"
+  },
+  {
+    "question": "Why is Genie (feral child) significant according to the passage?",
+    "answer": "She was a victim of severe abuse , neglect , and social isolation.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
+    "chunk_id": "chunk_2500",
+    "source_title": "Genie (feral child)"
+  },
+  {
+    "question": "Why is Die Glocke (conspiracy theory) significant according to the passage?",
+    "answer": "It is a device few outside of fringe culture think actually existed.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Die_Glocke_(conspiracy_theory)",
+    "chunk_id": "chunk_1097",
+    "source_title": "Die Glocke (conspiracy theory)"
+  },
+  {
+    "question": "Why is Aftermath of World War II significant according to the passage?",
+    "answer": "The rise of two global superpowers.",
+    "type": "inferential",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_II",
+    "chunk_id": "chunk_3983",
+    "source_title": "Aftermath of World War II"
+  },
+  {
+    "question": "How do multiple facts in the passage connect regarding Physics World?",
+    "answer": "The answer is not available in the given context.",
+    "type": "multi-hop",
+    "ground_truth_url": "https://en.wikipedia.org/wiki/Physics_World",
+    "chunk_id": "chunk_4070",
+    "source_title": "Physics World"
   }
 ]
